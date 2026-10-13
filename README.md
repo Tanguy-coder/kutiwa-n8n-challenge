@@ -1,3 +1,12 @@
-# 🤖 Kutiwa Agent DevOps
+# Kutiwa Agent DevOps
 
-Bienvenue sur le projet **Kutiwa Agent DevOps** ! Ce projet connecte WhatsApp, n8n et Docker pour piloter votre infrastructure et vos dépôts GitHub par de simples messages texte.
+Plateforme d'automatisation DevOps intelligente connectée à WhatsApp via WAHA et n8n.
+
+## Architecture
+- **Waha** : API WhatsApp
+- **n8n** : Moteur de workflows et agents IA
+- **Docker Compose** : Orchestration des conteneurs
+
+## Démarrage rapide
+1. 
+2. 
