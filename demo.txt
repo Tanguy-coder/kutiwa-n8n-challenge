@@ -1,0 +1,28 @@
+Projet : Kutiwa n8n Challenge
+================================
+
+Description :
+Ce projet est un défi de développement DevOps basé sur la plateforme n8n.
+Il vise à automatiser des workflows complexes en combinant des nœuds de traitement,
+de logique et d'intégration API.
+
+Objectifs :
+1. Automatiser les processus métier via des workflows n8n.
+2. Intégrer des services externes (API, bases de données, stockage).
+3. Mettre en place une infrastructure robuste et scalable.
+4. Documenter le processus pour une réutilisation facile.
+
+Contenu du dépôt :
+- Workflows n8n exportés en JSON.
+- Scripts de configuration et de déploiement.
+- Documentation technique (README.md).
+- Fichiers de test et de démonstration (comme celui-ci).
+
+Auteurs :
+- Tanguy Coder
+- Kutiwa DevOps Agent
+
+Date de création :
+Automatiquement généré lors de la mise en place du challenge.
+
+Version : 1.0.0
